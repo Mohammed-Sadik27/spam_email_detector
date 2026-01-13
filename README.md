@@ -34,7 +34,7 @@ The model is trained on a **public Kaggle dataset**, and the application provide
 
 The model was trained using a **public Kaggle dataset**.  
 - The dataset itself is **not included** due to licensing restrictions.  
-- You can access the original dataset here: [Kaggle Spam Email Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)  
+- You can access the original dataset here: [Kaggle Spam Email Dataset](https://www.kaggle.com/datasets/abdmental01/email-spam-dedection)  
 
 ---
 
@@ -48,8 +48,6 @@ The model was trained using a **public Kaggle dataset**.
 
 4. The app will display:
 
-   . Prediction: SPAM or Non-Spam
+   + Prediction: SPAM or Non-Spam
 
-   . Confidence of the prediction
-git clone https://github.com/yourusername/spam-email-detector.git
-cd spam-email-detector
+   + Confidence of the prediction
